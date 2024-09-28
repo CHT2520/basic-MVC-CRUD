@@ -45,7 +45,7 @@ Check this works.
 Next, open _update.php_. Add some code that will:-
 
 - Get the data from the form.
-- Call `save()` in the _film.php_ file.
+- Call `update()` in the _film.php_ file.
 - Re-direct the user back to the _index.php_ page.
 
 Finally, try and get _destroy.php_ to work.
