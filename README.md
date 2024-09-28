@@ -39,9 +39,10 @@ Next, think about how the update operation works. First, you need to display the
 - Get the id from the query string.
 - Call `find()` in the _film.php_ file.
 - Load _edit.view.php_.
-- Check this works.
 
-Next, open _update.php_. Add some code that will
+Check this works.
+
+Next, open _update.php_. Add some code that will:-
 
 - Get the data from the form.
 - Call `save()` in the _film.php_ file.
